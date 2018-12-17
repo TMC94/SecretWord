@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545019980 source:c:\users\dad\desktop\himitsuword\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1545020065 c:\users\dad\desktop\himitsuword\game.h
+
